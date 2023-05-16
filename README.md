@@ -54,11 +54,12 @@ Hi, This is Taeyang here. My goal is to make better life for you and me.
 <div align=center>
     <p>🎨 For Contact 🎨</p>
 </div>
-<div align=center>
-  <a href="mailto:kty1895@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-  </a>
+<div align="center">
+    <a href="mailto:kty1895@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+    <a href="mailto:kty1895@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
+    <a href="https://www.instagram.com/tx.exlr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 </div>
+
 <div align=center>
     <br>
     <br>
