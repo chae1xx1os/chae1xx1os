@@ -4,7 +4,6 @@ Hi, This is Tae Yang. I have a goal to make better life for you and me.
 - 🎓 Majored in Industrial Security / Double majored in School of Business Administration
 - 🍀 Learning Web & App front-end & back-end
 - 😄 Welcome to my Github!
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <!--
 **This Dynamic Image's from -> [Capsule-Render](https://github.com/chae1xx1os/capsule-render) - Press F5!**
