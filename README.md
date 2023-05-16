@@ -59,11 +59,12 @@ Hi, This is Taeyang here. My goal is to make better life for you and me.
     <a href="mailto:kty1895@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
     <a href="https://www.instagram.com/tx.exlr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 </div>
-
+<br>
 <div align=center>
     <br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chae1xx1os&layout=compact%22%3E">
+    <br>
     <br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=chae1xx1os&show_icons=true%22%3E">
