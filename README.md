@@ -37,6 +37,7 @@ Hi, This is Taeyang here. My goal is to make better life for you and me.
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+</div>
 <br>
 <br>
 <div align=center>
