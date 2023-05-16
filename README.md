@@ -13,6 +13,7 @@ Hi, This is Tae Yang. I have a goal to make better life for you and me.
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 -->
+<br>
 <div align=center>
     <h3>📚 Tech Stack 📚</h3>
     <p>✨ Platforms & Languages ✨</p>
@@ -29,6 +30,7 @@ Hi, This is Tae Yang. I have a goal to make better life for you and me.
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 </div>
 <br>
+<br>
 <div align=center>
     <p>🛠 Tools 🛠</p>
 </div>
@@ -39,6 +41,7 @@ Hi, This is Tae Yang. I have a goal to make better life for you and me.
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white" />  
 </div>
 <br>
+<br>
 <div align=center>
     <p>🎨 For Contact 🎨</p>
 </div>
@@ -48,6 +51,7 @@ Hi, This is Tae Yang. I have a goal to make better life for you and me.
   </a>
 </div>
 <div align=center>
+    <br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chae1xx1os&layout=compact%22%3E">
     <br><br>
