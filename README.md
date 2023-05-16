@@ -70,4 +70,3 @@ Hi, This is Taeyang here. My goal is to make better life for you and me.
     <img src="https://github-readme-stats.vercel.app/api?username=chae1xx1os&show_icons=true%22%3E">
 </div>
 <br>
-<br>
