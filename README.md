@@ -32,7 +32,7 @@ Hi, This is Taeyang here. My goal is to make better life for you and me.
 <br>
 <br>
 <div align=center>
-    <p>🛠 Tools 🛠</p>
+    <p>🛠  Tools  🛠</p>
 </div>
 <div align=center>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
