@@ -62,7 +62,6 @@ Hi, This is Taeyang here. My goal is to make better life for you and me.
 <div align=center>
     <br>
     <br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chae1xx1os&layout=compact)](https://github.com/chae1xx1os/github-readme-stats)
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chae1xx1os&layout=compact%22%3E">
     <br>
     <br>
